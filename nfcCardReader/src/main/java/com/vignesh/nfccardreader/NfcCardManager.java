@@ -8,6 +8,7 @@ import android.nfc.NfcAdapter;
 import android.nfc.tech.IsoDep;
 import android.nfc.tech.NfcA;
 import android.nfc.tech.NfcB;
+import android.os.Build;
 
 public class NfcCardManager {
 
